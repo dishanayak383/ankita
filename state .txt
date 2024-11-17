@@ -1,0 +1,3 @@
+state. 
+difference between state and props.
+employee details.
